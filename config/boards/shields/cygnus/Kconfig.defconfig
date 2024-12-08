@@ -1,0 +1,6 @@
+if SHIELD_CYGNUS
+
+  config ZMK_KEYBOARD:NAME
+    default "Dactyl Cygnus"
+
+endif
